@@ -92,6 +92,8 @@ Base on the analysis, we recommend the following actions:
 
  Verified Users only counts those marked as verified but doesn’t ensure that the verification is thorough or up-to-date, which may lead to gaps in security or compliance.
 
+This is the link to the dashboard _**[Here](https://app.powerbi.com/view?r=eyJrIjoiNmVkODdhNWItM2I5Yy00NmU0LTliZmItMzg0OTNiMWI5MGMzIiwidCI6IjY4ZDBlMjhiLTg3NTUtNDgzMi1iM2JjLWRhOGQwNjM3YzY5ZCJ9)**_
+
  ### References
 
  User Engagement and Retention Metrics: Resources like Mixpanel and Amplitude offer insights into user engagement, verification processes, and best practices for onboarding and retention analysis. Mixpanel User Engagement Guide and Amplitude Blog.
